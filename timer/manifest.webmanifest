@@ -1,0 +1,1 @@
+{"name":"Countdown timer","short_name":"timer","start_url":"/timer/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/timer/","description":"Simple configurable countdown timer","theme_color":"#6366f1","icons":[{"src":"/timer/pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/timer/pwa-512x512.png","sizes":"512x512","type":"image/png"}]}

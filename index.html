@@ -64,16 +64,6 @@
             transition: all 0.2s ease;
         }
 
-        .brutalist-card:hover {
-            transform: translate(-3px, -3px);
-            box-shadow: 15px 15px 0 #000;
-        }
-
-        .brutalist-card:active {
-            transform: translate(12px, 12px);
-            box-shadow: none;
-        }
-
         .card-header {
             display: flex;
             align-items: center;
@@ -163,11 +153,6 @@
             border-color: #ff0000;
         }
 
-        .card-link:active {
-            transform: translate(6px, 6px);
-            box-shadow: none;
-        }
-
         .card-1 .card-link:hover {
             background-color: #ff006e;
             border-color: #ff006e;
@@ -253,6 +238,8 @@
         </div>
 
         <div class="grid">
+
+            <!-- 1. Activity planner -->
             <div class="brutalist-card card-1">
                 <div class="card-header">
                     <div class="card-icon"> 🗓️ </div>
@@ -264,6 +251,20 @@
                 </div>
                 <a href="/planner/" class="card-link">→ ENTER</a>
             </div>
+
+            <!-- 1. Countdown timer -->
+            <div class="brutalist-card card-2">
+                <div class="card-header">
+                    <div class="card-icon"> ⏱️ </div>
+                    <!-- <div class="card-number"> 01 </div> -->
+                    <div class="card-title"> Countdown timer </div>
+                </div>
+                <div class="card-description">
+                    A simple PWA countdown timer
+                </div>
+                <a href="/timer/" class="card-link">→ ENTER</a>
+            </div>
+
         </div>
 
         <div class="footer">
