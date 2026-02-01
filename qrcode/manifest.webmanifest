@@ -1,0 +1,1 @@
+{"name":"Activity Planner","short_name":"Planner","description":"Plan activities with integrated todo lists","start_url":"/qrcode/","display":"standalone","background_color":"#ffffff","theme_color":"#6366f1","lang":"en","scope":"/qrcode/","icons":[{"src":"/qrcode/schedule.png","sizes":"512x512","type":"image/png"}]}
