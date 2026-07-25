@@ -1,0 +1,1 @@
+{"name":"Activity Planner","short_name":"Planner","description":"Plan activities with integrated carts lists","start_url":"/carts/","display":"standalone","background_color":"#ffffff","theme_color":"#6366f1","lang":"en","scope":"/carts/","icons":[{"src":"/carts/carts.png","sizes":"512x512","type":"image/png"}]}
